@@ -1,9 +1,9 @@
 // testing if my code is working
-/*
+
 var daniel : string = " daniel"
 
 console.log(daniel);
-*/
+
 
 import express from 'express';
 import notesRouter from './routes/notes';
