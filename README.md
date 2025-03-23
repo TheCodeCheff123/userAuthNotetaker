@@ -1,4 +1,4 @@
-# learnableExpressJs
+# User Authentication for NoteTaking App
 This file provides an overview of the project, instructions for setting it up.
 
 ---
